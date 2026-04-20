@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
@@ -92,4 +92,4 @@ data class Developer(
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-</div>
+</div> -->

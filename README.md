@@ -104,7 +104,7 @@ data class Developer(
 
 [![Email](https://img.shields.io/badge/Email-mohitofficial2042%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitofficial2042@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Unresolved--me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unresolved-me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-puhal-835665206)
 
 </div>
 
